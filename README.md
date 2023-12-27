@@ -1,12 +1,12 @@
 # Scheduling Desktop Application
-## Overview
 
+## Overview
 This project involves the development of a GUI-based scheduling desktop application for a global consulting organization. 
 The application is designed to interact with a MySQL database provided by the client, and it must adhere to specific business requirements outlined in the scenario. 
 The primary focus is on creating a user-friendly interface with functionalities related to customer records, appointments, and scheduling. 
 The project aims to showcase essential skills relevant to software design and development, providing a potential portfolio piece for future employment.
-## Project Structure
 
+## Project Structure
 The application is written using Java and JavaFX SDK, adhering to the guidelines specified in the task requirements. 
 The code includes functionalities related to user authentication, customer record management, appointment handling, and various reporting features.
 
@@ -62,15 +62,9 @@ f. Reporting
 * Provides a schedule for each contact, including appointment details.
 * Allows customization for an additional report.
 
-## Code Improvements
-
-The code incorporates at least two different lambda expressions to enhance readability and efficiency.
-User Activity Tracking
-
+## User Activity Tracking
 User log-in attempts, dates, and timestamps are recorded in a file named login_activity.txt. Each new record is appended to the existing file, providing a comprehensive log of user activities.
-## Documentation
 
-Descriptive Javadoc comments cover at least 70% of the classes and their members throughout the code. The comments include justifications for each lambda expression used in the methods.
 ## Conclusion
-
-This scheduling desktop application demonstrates a robust and user-friendly solution that meets the specified business requirements. The use of Java and JavaFX SDK, adherence to coding standards, and comprehensive documentation make this project a valuable addition to a software developer's portfolio. The application's versatility and feature-rich interface showcase essential skills relevant to real-world job assignments and technical interviews.
+This scheduling desktop application demonstrates a robust and user-friendly solution that meets the specified business requirements. The use of Java and JavaFX SDK, adherence to coding standards, 
+and comprehensive documentation make this project a showcase of essential skills relevant to real-world job assignments.
